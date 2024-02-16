@@ -2,7 +2,7 @@ import gsap from "https://cdn.skypack.dev/gsap@3.11.0";
 
 const BUTTON = document.querySelector('button');
 // const audioUrl = new URL('Sarkodie-Mewu-ft-Akwaboah-(TrendyBeatz.com).mp3');
-const AUDIO = new Audio('./Aqyila Hello.mp3');
+const AUDIO = new Audio('./Aqyila Bloom.mp3');
 
 AUDIO.crossOrigin = 'anonymous';
 
